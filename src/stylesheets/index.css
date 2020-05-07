@@ -1,0 +1,20 @@
+body {
+    background: #fdfdfd;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container {
+    width: 460px;
+}
+
+.invalid {
+    color: red;
+    display: block;
+}
+
+/*input[type=radio] {*/
+/*    padding-right: 10px;*/
+/*}*/
